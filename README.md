@@ -6,4 +6,4 @@ tugas-labkom-2019-11-5-immanuel-kant created by GitHub Classroom
 4. 17.63.08715-M.Dahwa Aprirulloh
 5. 17.63.08609-Azqa Zakirah Putri J.
 6. 17.63.08759-Nadhira Septias Kharisma
-7. 17.63.08669-Herlani Apriliani
+7. 17.63.08669-Herlani Apriliana
